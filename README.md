@@ -1,0 +1,1 @@
+# ogrenci_isleri_otomasyonu
